@@ -6,4 +6,4 @@
 
 ## Ссылка на репозиторий приложения
 
-https://github.com/ТВОЙ_ЛОГИН/abiturient-app
+[Ссылка](https://github.com/kostanchik227/abiturient-db-app)
