@@ -14,7 +14,7 @@
 
 ## Ссылка на wiki
 
-[Wiki]((https://github.com/kostanchik227/abiturient-db-app/wiki))
+[Wiki](https://github.com/kostanchik227/abiturient-db-app/wiki)
 
 ## Ссылка на отчет
 
